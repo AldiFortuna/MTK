@@ -18,7 +18,5 @@ print ("1. Auto Calcutor")
 print ("2. Hitung Bidang")
 print (" ")
 plh = int(input("Masukan Pilihan Kamu : "))
-if plh = 1:
-  print ("Diproses...")
-  time.sleep (5)
-  print (" 25 % ")
+if plh == 1:
+  print ("Masukan Bilangan Anda")
